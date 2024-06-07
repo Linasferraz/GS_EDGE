@@ -59,6 +59,10 @@ Serial.println(pHValue);
  // Delay before the next reading
  delay(2000); }
 
+
+# LINK TinkerCard
+
+https://www.tinkercad.com/things/9urIBErSj0h-swanky-gogo/editel?sharecode=GvBO82WFdLahebW1vp5LWW1OU7emdIoAhzFfCf1kS70
 * Como Usar
 <img width="1136" alt=<img width="1136" alt="TINKER" src="https://github.com/Linasferraz/GS_EDGE/assets/161864076/d462d6c3-0974-4861-b0d6-ed1fb30c8e86">
 
